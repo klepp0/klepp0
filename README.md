@@ -33,6 +33,7 @@ Thanks for visiting my little playground 🛝 I'm currently in the process of se
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-%238A3391.svg?style=for-the-badge&logo=Pulumi&logoColor=white)
+![PyG](https://img.shields.io/badge/pyg-%233C2179.svg?style=for-the-badge&logo=pyg&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
