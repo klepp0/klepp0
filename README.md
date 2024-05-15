@@ -1,8 +1,8 @@
-# sacklippe
+# 👋 Welcome
 
 Thanks for visiting my little playground 🛝 I'm currently in the process of setting up a landing page for my GitHub profile. So by the time you see this, the page might not be complete 👀
 
-## Tools
+## 🔧 Tools
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
