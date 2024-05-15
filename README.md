@@ -1,4 +1,4 @@
-# 👋 Welcome
+# 👋 Welcome!
 
 Hey there! Thank you for visiting my GitHub profile. I am an energy engineer with a strong foundation in software development. So far I have been leading a small software development team at [Voltfang](https://voltfang.de/en/). This unique experience has taught me a great deal about software development, leadership, and many other valuable skills that are hard to summarize in one sentence.
 
