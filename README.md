@@ -1,6 +1,10 @@
 # 👋 Welcome
 
-Thanks for visiting my little playground 🛝 I'm currently in the process of setting up a landing page for my GitHub profile. So by the time you see this, the page might not be complete 👀
+Hey there! Thank you for visiting my GitHub profile. I am an energy engineer with a strong foundation in software development. So far I have been leading a small software development team at [Voltfang](https://voltfang.de/en/). This unique experience has taught me a great deal about software development, leadership, and many other valuable skills that are hard to summarize in one sentence.
+
+However, I am now seeking new challenges in areas even more dedicated to software development. I primarily program in Python and have recently started exploring Rust. Feel free to check out my recent contributions to the [rad](https://github.com/klepp0/rad/tree/klepp0/%234-reverse-autodiff) project.
+
+I am actively looking for interesting new projects, particularly those involving deep learning, data engineering, or energy engineering. If you have an exciting project or opportunity, I'd love to hear about it!
 
 ## 🔧 Tools
 
