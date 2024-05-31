@@ -1,10 +1,12 @@
 # 👋 Welcome!
 
-Hey there! Thank you for visiting my GitHub profile. I am an energy engineer with a strong foundation in software development. So far I have been leading a small software development team at [Voltfang](https://voltfang.de/en/). This unique experience has taught me a great deal about software development, leadership, and many other valuable skills that are hard to summarize in one sentence.
+Hey there! Welcome to my GitHub lair. I’ve had the wild ride of leading an international software team at a startup, where I learned that managing diverse talents is the ultimate debugging quest. 🎡🎢
 
-However, I am now seeking new challenges in areas even more dedicated to software development. I primarily program in Python and have recently started exploring Rust. Feel free to check out my recent contributions to the [rad](https://github.com/klepp0/rad/tree/klepp0/%234-reverse-autodiff) project.
+Python is my trusty Swiss Army knife. 🛠️ But lately, I’ve been expanding my horizons, exploring new languages like a chef trying out exotic spices. 🫚🌶️
 
-I am actively looking for interesting new projects, particularly those involving deep learning, data engineering, or energy engineering. If you have an exciting project or opportunity, I'd love to hear about it!
+I’m currently on the hunt for new opportunities and thrilling projects to sink my teeth into. If you’re hiring or have a project that needs a dash of Python magic or some AI wizardry, let’s chat! 🧙‍♂️
+
+Feel free to check out my latest coding adventures and contributions. I promise, it’s way more exciting than watching paint dry. 💅
 
 ## 🔧 Tools
 
