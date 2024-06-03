@@ -1,14 +1,12 @@
 # 👋 Welcome!
 
-Hey there! Welcome to my GitHub lair. I’ve had the wild ride of leading an international software team at a startup, where I learned that managing diverse talents is the ultimate debugging quest. 🎡🎢
+Hey there, intrepid explorer! Welcome to my little playground, where code comes to life and bugs magically disappear (well, most of the time). If you're here to find something cool, I hope you succeed. If you're here to find me a job, well, I'm right here: ![Hire](https://img.shields.io/badge/Available_for_Hire-brightgreen)
 
-Python is my trusty Swiss Army knife. 🛠️ But lately, I’ve been expanding my horizons, exploring new languages like a chef trying out exotic spices. 🫚🌶️
+## 🪂 Overview
 
-I’m currently on the hunt for new opportunities and thrilling projects to sink my teeth into. If you’re hiring or have a project that needs a dash of Python magic or some AI wizardry, let’s chat! 🧙‍♂️
+Alright, let's address the elephant in the room 🐘: yes, it might look a bit chaotic here. But don't worry, it's organized chaos! Here’s a list of tools I’ve dabbled with, sorted alphabetically because that's how I roll. This list might not be complete, but it should give you a taste of my coding adventures.
 
-Feel free to check out my latest coding adventures and contributions. I promise, it’s way more exciting than watching paint dry. 💅
-
-## 🔧 Tools
+<div align="center">
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -50,3 +48,19 @@ Feel free to check out my latest coding adventures and contributions. I promise,
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+
+<\div>
+
+### 📽️ Projects
+
+Here are some projects I'm working on or that I think are worth mentioning:
+
+- [bpp](https://github.com/klepp0/bpp): The bin packing problem (BPP) from a quantum computing hackathon 🔪
+- [dotfiles](https://github.com/klepp0/dotfiles): Trying to find a better structure for my configuration files. It integrates with my [nvim](https://github.com/klepp0/nvim) 🪬 because yes, I’m that kind of person who thinks my Neovim is way more efficient than your VS Code 🤯
+- [ednn](https://github.com/klepp0/ednn): Encoder-decoder neural networks (EDNN). This is related to my master's thesis. No code shared yet, but it’s on my to-do list 📋👀
+- [git-flex](https://github.com/klepp0/git-flex): This one you’ll have to look up yourself 🦾
+- [musync](https://github.com/klepp0/musync): I use multiple music streaming platforms, making it a bit of a challenge to keep my music organized. This project aims to sync my music collection 🎶
+- [rad](https://github.com/klepp0/rad): Rust-based automatic differentiation (RAD). Combines two things I love: Rust (my favorite programming language) and the mathematics of deep learning 🦀🧮
+- [resume](https://github.com/klepp0/resume): Couldn't find a template that met my standards, so I made my own. Also looking for a customisable template? Go ahead and ask [John Doe](https://github.com/klepp0/resume) if you can use his 🥸 (![Hire](https://img.shields.io/badge/Available_for_Hire-brightgreen))
+
+Thanks for stopping by! 🐌 
