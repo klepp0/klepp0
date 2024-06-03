@@ -49,7 +49,7 @@ Alright, let's address the elephant in the room 🐘: yes, it might look a bit c
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-<\div>
+</div>
 
 ### 📽️ Projects
 
