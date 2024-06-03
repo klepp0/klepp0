@@ -60,7 +60,7 @@ Here are some projects I'm working on or that I think are worth mentioning:
 - [ednn](https://github.com/klepp0/ednn): Encoder-decoder neural networks (EDNN). This is related to my master's thesis. No code shared yet, but it’s on my to-do list 📋👀
 - [git-flex](https://github.com/klepp0/git-flex): This one you’ll have to look up yourself 🦾
 - [musync](https://github.com/klepp0/musync): I use multiple music streaming platforms, making it a bit of a challenge to keep my music organized. This project aims to sync my music collection 🎶
-- [rad](https://github.com/klepp0/rad): Rust-based automatic differentiation (RAD). Combines two things I love: Rust (my favorite programming language) and the mathematics of deep learning 🦀🧮
+- [rad](https://github.com/hidal00p/rad): Rust-based automatic differentiation (RAD). Combines two things I love: Rust (my favorite programming language) and the mathematics of deep learning 🦀🧮
 - [resume](https://github.com/klepp0/resume): Couldn't find a template that met my standards, so I made my own. Also looking for a customisable template? Go ahead and ask John Doe if you can use his 🥸 → ![Hire](https://img.shields.io/badge/Available_for_Hire-brightgreen)👀
 
 Thanks for stopping by! 🐌 
