@@ -58,7 +58,7 @@ Let's talk numbers! To be honest, I'm not sure if they truly capture my abilitie
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=klepp0&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klepp0&layout=donut&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klepp0&layout=compact&theme=transparent)
 
 </div>
 
