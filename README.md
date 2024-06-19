@@ -51,6 +51,18 @@ Alright, let's address the elephant in the room 🐘: yes, it might look a bit c
 
 </div>
 
+### 📈 Stats
+
+Let's talk numbers! To be honest, I'm not sure if they truly capture my abilities, but they sure do look fancy. 🎩✨
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=klepp0&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klepp0&layout=donut&theme=transparent)
+
+</div>
+
+
 ### 📽️ Projects
 
 Here are some projects I'm working on or that I think are worth mentioning:
